@@ -1,0 +1,26 @@
+title: Order
+x-stoplight:
+  id: r2n6fpde83mrl
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: 08k8to6slg7vq
+  productId:
+    type: string
+    x-stoplight:
+      id: ve0ybajycd308
+  customerId:
+    type: string
+    x-stoplight:
+      id: 97ms1is6sqa8l
+  quantity:
+    type: integer
+    x-stoplight:
+      id: bgc6zmw97lscc
+  orderDate:
+    type: string
+    x-stoplight:
+      id: 8fddwgb51dael
+    format: date-time
